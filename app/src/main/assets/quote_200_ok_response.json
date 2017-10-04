@@ -1,0 +1,1 @@
+{"statusCode":400,"error":"Bad Request","message":"password must contain at least one capital letter, small letter, digit with minimum 8 characters"}

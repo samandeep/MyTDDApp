@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyTddApp</string>
+    <string name="btn_sign_in">SignIn</string>
+    <string name="err_enter_email">Enter Email!</string>
+    <string name="err_enter_password">Enter password!</string>
+    <!--<string name="msg_success_login">Successfully logged In</string>-->
+    <string name="msg_login_failed">Login Failed!</string>
+
+    <string name="text_ok">OK</string>
+    <string name="loading">Loading…</string>
+    <string name="session_expired">Session expired.</string>
+    <!--error-->
+    <string name="error_email_field_empty">Please enter email address.</string>
+    <string name="error_invalid_email">Please enter valid email address.</string>
+    <string name="error_password_field_empty">Please enter password.</string>
+    <string name="error_confirm_password_field_empty">Please enter confirm password.</string>
+    <string name="error_password_must_be_greater_than_5_character">Password must be greater than 5 character.</string>
+    <string name="err_login_failed">Login failed</string>
+    <string name="welcome_welcome_welcome">Welcome Welcome Welcome</string>
+
+</resources>
